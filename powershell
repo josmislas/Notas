@@ -1,0 +1,14 @@
+mkdir se crea un folder o documento
+cd.. es para regresar a la linea anterior
+ls abre el folder
+ls -a muestra los archivos ocultos
+clear borra la pantalla
+cd + nombre de folder para seleccionarlo
+rm se utiliza para borrar un archivo
+rm-rf elimina todos los archivos permanentemente
+subl para crear un archivo
+mkcd vrea un folder y lo abre al mismo tiempo
+echo remplaza el archivos
+>> agrega un contemnido nuevo
+cp copia todo el archivo y su contenido
+mv cambia el nombre de un archivo
